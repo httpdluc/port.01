@@ -1,0 +1,5 @@
+npm i three --save-dev
+npm i events --save-dev
+npm i gsap --save-dev
+npm i --save-dev @ashthornton/asscroll
+npm i lil-gui --save-dev
